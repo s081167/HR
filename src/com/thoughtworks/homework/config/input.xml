@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+    <customer name="ZhangFei" type="P" days="2009-03-16,2009-03-17,2009-03-18"></customer>
+    <!-- <customer name="ZhangFei" type="P" days="2009-03-20,2009-03-21,2009-03-22"></customer>
+    <customer name="ZhangFei" type="VIP" days="2009-03-26,2009-03-27,2009-03-28"></customer> -->
+</customers>
