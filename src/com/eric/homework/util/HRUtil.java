@@ -394,9 +394,9 @@ public class HRUtil {
 
 		//hrUtil.readHotelPrice("");
 
-		//System.out.println(isWeekend(stringToDate("2009-03-18","yyyy-MM-dd")));
+		System.out.println(isWeekend(stringToDate("2009-03-18","yyyy-MM-dd")));
 
-		System.out.println(getAfterDate(new Date()));
+		//System.out.println(getAfterDate(new Date()));
 
 	}
 
