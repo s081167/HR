@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<hotels>
-    <hotel name="LW" starLevel="3" weekdayP="110" weekdayVip="80" weekendP="90" weekendVip="80"></hotel>
-    <hotel name="BW" starLevel="4" weekdayP="160" weekdayVip="110" weekendP="60" weekendVip="50"></hotel>
-    <hotel name="RW" starLevel="5" weekdayP="220" weekdayVip="100" weekendP="150" weekendVip="40"></hotel>
-</hotels>
